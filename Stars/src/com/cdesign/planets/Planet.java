@@ -24,16 +24,19 @@ public class Planet
 	private double radiusOrbit = 5.0;
 	private double velocity = 1;
 	private Color color;
+	private int direction = 0;
 	private int angle = 0;
 	private String parent;
 
-	public Planet(String name, int id, double rad, double radOrbit, double velocity, Color color)
+	public Planet(String name, int id, double rad, double radOrbit, double velocity,
+			int dir, Color color)
 	{
 		this.name = name;
 		this.id = id;
 		this.radius = rad;
 		this.radiusOrbit = radOrbit;
 		this.velocity = velocity;
+		this.direction = dir;
 		this.color = color;
 	}
 
@@ -89,6 +92,10 @@ public class Planet
 	
 	public Color getColor() {
 		return color;
+	}
+	
+	public int getDirection() {
+		return direction;
 	}
 	
 	public String getParent() {

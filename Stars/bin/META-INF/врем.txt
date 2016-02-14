@@ -36,6 +36,7 @@
 Куда приводят мечты 1998
 Жестяной кубок
 Царство Небесное
+Викинги
 --------------------------------
 Бойцовский клуб, Американская История Х, Шоу Трумена, Я-четвертый, Эффект бабочки, Девушка с татуировкой дракона, Исходный код, Нечто, Реквием по мечте, Хатико, Больше, чем любовь, Другой мир, Цена страсти, Заражение, Проклятие.
 --------------------------------
@@ -831,6 +832,18 @@ http://samolisov.blogspot.co.uk/2014/08/java-ee-6.html
 http://java-course.ru/courses/javaee/
 http://javatalks.ru/topics/39579		- CascadeType разница в JPA и Hibernate
 www.packtpub.com/support			- sources for Advanced Wildfly
+http://sotnyk.com/2011/10/09/rukovodstvo-po-eclipse-ide/
+http://www.vogella.com/tutorials/EclipseRCP/article.html
+						- Plugins for Eclipse (core)
+http://www.vogella.com/tutorials/EclipseShortcuts/article.html
+http://www.vogella.com/tutorials/Mylyn/article.html
+http://www.vogella.com/tutorials/EclipseWTP/article.html
+http://habrahabr.ru/post/65076/			- оптимизация eclipse
+https://performance.netbeans.org/howto/jvmswitches/
+http://www-01.ibm.com/support/knowledgecenter/SSBSK5_7.5.0/org.eclipse.platform.doc.user/tasks/running_eclipse.htm?lang=ru
+http://www.javaportal.ru/java/ide/ten_t_eclipse.html
+http://dl.bintray.com/vogellacompany/e4tools	- Plugins for Eclipse (more then core)
+
 ----------------------------------------------------------------------------------
 Если все-таки будет желание изучить Java, вот хорошая ссылка:
 http://javarush.ru/user/reference/a0801369-1b2b-4e9c-8fd5-7e0ed8d47f48
@@ -931,6 +944,8 @@ https://www.youtube.com/watch?v=kq8_DbDKtJc	- ucancode мастер-класс "Путь програ
 http://www.salsa.ru/
 webpagetest.org					- тестирование разраб-го сайта
 pagespeed
+http://rostov.hh.ru/vacancy/15955668?utm_campaign=vacancies_selected&utm_medium=email&utm_source=email&utm_content=2016_02_12
+						- Game Development, Arkadium!!!
 =====================================================================================
 Работа
 
